@@ -1,0 +1,6 @@
+{
+  "name": "Sonyyy's Little Universe",
+  "description": "30 little worlds, one very special girl, and a whole lot of love — an interactive 3D romantic universe dedicated to Sonyyy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
